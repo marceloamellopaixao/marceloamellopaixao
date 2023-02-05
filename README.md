@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Marcelo Augusto
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/marceloamellopaixao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=github_dark">
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/marceloamellopaixao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloamellopaixao&theme=github_dark&layout=compact">
   </a>
 </div>
