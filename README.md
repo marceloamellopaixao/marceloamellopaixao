@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu Perfil do GitHub!
+## Seja bem vindo ao meu Perfil do GitHub!
 ### Olá! Eu sou o Marcelo Augusto
 <div>
   <a href="https://github.com/marceloamellopaixao">
