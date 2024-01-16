@@ -1,4 +1,4 @@
-name: Snake Game
+name: Snake Git
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
       - name: Snake Animation
         id: snake-gif
         run: |
-          echo "github_user_name=marceloamellopaixao" >> $GITHUB_ENV
+          echo "github_user_name=betafontes" >> $GITHUB_ENV
           echo "svg_out_path=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
           npx snk
 
