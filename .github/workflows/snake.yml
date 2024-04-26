@@ -26,11 +26,19 @@ jobs:
       - name: Set Environment Variables
         run: echo "MY_OUTPUT_VAR=123" >> $GITHUB_ENV
 
+      # Criar uma nova tag para a versão
+      - name: Criar Tag de Versão
+        run: git tag v1.0
+        if: success()  # Executar apenas se os passos anteriores forem bem-sucedidos
+
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-release@v2
         with:
-          target_branch: output
-          build_dir: dist
+          draft: false
+          prerelease: false
+          repository: ${{ github.repository }}
+          tag_name: v1.0
+          files: dist/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MY_OUTPUT_VAR: ${{ env.MY_OUTPUT_VAR }}
