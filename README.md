@@ -1,5 +1,6 @@
 ## Seja bem vindo ao meu Perfil do GitHub!
 ### Olá! Eu sou o Marcelo Augusto
+### Sou um programador Full Stack e Universitário!!
 <div>
   <a href="https://github.com/marceloamellopaixao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=github_dark">
