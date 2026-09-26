@@ -1,41 +1,67 @@
-## Seja bem vindo ao meu Perfil do GitHub!
-### Olá! Eu sou o Marcelo Augusto
-### Sou um programador Full Stack!!
-<div>
-  <a href="https://github.com/marceloamellopaixao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=github_dark">
+<h1 align="center">Olá, eu sou o Marcelo Augusto! 👋</h1>
+<h3 align="center">Desenvolvedor de Software | C# .NET | Python | Next.js</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marceloamellopaixao" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://instagram.com/ofcmarceloamp" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+- 💼 Atualmente sou Desenvolvedor na **PowerOfData**.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **FIAP**.
+- 🚀 Tenho focado na construção de aplicações e sistemas utilizando **C# .NET** e **Python**. 
+- ⚛️ No front-end moderno, trabalho com **Next.js** explorando renderização de componentes, otimização de cache e gerenciamento de estado.
+- 🌱 Buscando sempre evoluir em arquitetura de software, performance e boas práticas.
+- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/marceloamellopaixao)
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/marceloamellopaixao/weven-finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=NOME_DO_SEU_REPO_AQUI&theme=tokyonight&hide_border=true" width="400" alt="Projeto Destaque 1"/>
+  </a>
+  <a href="https://github.com/marceloamellopaixao/imobexa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=NOME_DO_OUTRO_REPO_AQUI&theme=tokyonight&hide_border=true" width="400" alt="Projeto Destaque 2"/>
+  </a>
+</div>
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <!-- Backend & Linguagens Principais -->
+  <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
-  <a href="https://github.com/marceloamellopaixao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloamellopaixao&theme=github_dark&layout=compact">
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcelo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Marcelo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Marcelo-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Marcelo-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
-
-  ##
+  <!-- Frontend Moderno -->
+  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   
-<div>
-  <a href="https://www.linkedin.com/in/marceloamp-04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/marceloamp_ofc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://portmar.firebaseapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <!-- Ferramentas e Infraestrutura -->
+  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![snake gif](https://github.com/marceloamellopaixao/marceloamellopaixao/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloamellopaixao&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas"/>
+</div>
+
+<br>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marceloamellopaixao/marceloamellopaixao/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
