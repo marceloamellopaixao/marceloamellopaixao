@@ -1,67 +1,153 @@
-<h1 align="center">Olá, eu sou o Marcelo Augusto! 👋</h1>
-<h3 align="center">Desenvolvedor de Software | C# .NET | Python | Next.js</h3>
+<h1 align="center">Olá, eu sou o Marcelo Augusto 👋</h1>
+
+<h3 align="center">
+  BackEnd Developer • Backend & Full Stack
+</h3>
+
+<p align="center">
+  C# / .NET • Python • Next.js • APIs • Cloud • Software Architecture
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marceloamellopaixao" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/ofcmarceloamp" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-- 💼 Atualmente sou Desenvolvedor na **PowerOfData**.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **FIAP**.
-- 🚀 Tenho focado na construção de aplicações e sistemas utilizando **C# .NET** e **Python**. 
-- ⚛️ No front-end moderno, trabalho com **Next.js** explorando renderização de componentes, otimização de cache e gerenciamento de estado.
-- 🌱 Buscando sempre evoluir em arquitetura de software, performance e boas práticas.
-- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/marceloamellopaixao)
+Sou **Desenvolvedor BackEnd na PowerOfData**, formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com foco na construção de aplicações web, APIs e soluções escaláveis.
 
-## 🚀 Tecnologias e Ferramentas
+- 💼 Atualmente atuo como **Software Developer na PowerOfData**
+- ⚙️ Trabalho principalmente com **C# / .NET e Python** no back-end
+- 🌐 Desenvolvo aplicações modernas utilizando **Next.js, React e TypeScript**
+- 🧩 Experiência com **APIs REST, integrações, autenticação, bancos de dados e automações**
+- ☁️ Interesse e experiência prática com **Cloud, Docker, CI/CD e arquitetura de software**
+- 🏗️ Busco construir soluções com foco em **qualidade, escalabilidade, manutenção e performance**
+- 📚 Estudando continuamente **arquitetura, padrões de projeto, Clean Code e engenharia de software**
 
-<div align="center">
-  <!-- Backend & Linguagens Principais -->
-  <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  
-  <!-- Frontend Moderno -->
-  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <!-- Ferramentas e Infraestrutura -->
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+---
+
+## 🚀 Tecnologias
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>⚙️ Back-end</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>🎨 Front-end</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>🛠️ Infra & Ferramentas</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+      <br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🏆 Projetos em Destaque
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/marceloamellopaixao/weven-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=weven-finance&theme=tokyonight&hide_border=true" width="400" alt="Projeto WevenFinance"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=weven-finance&theme=tokyonight&hide_border=true"
+      width="49%"
+      alt="WevenFinance"
+    />
   </a>
   <a href="https://github.com/marceloamellopaixao/iadeldorado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=iadeldorado&theme=tokyonight&hide_border=true" width="400" alt="Projeto IAD Eldorado"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=iadeldorado&theme=tokyonight&hide_border=true"
+      width="49%"
+      alt="IAD Eldorado"
+    />
   </a>
-</div>
+</p>
 
-<br>
+---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloamellopaixao&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marceloamellopaixao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="165"
+    alt="GitHub Stats"
+  />
 
-<br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloamellopaixao&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=marceloamellopaixao&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 🐍 Contribuições
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marceloamellopaixao/marceloamellopaixao/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/marceloamellopaixao/marceloamellopaixao/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo software, aprendendo continuamente e transformando problemas em soluções.</i>
+</p>
