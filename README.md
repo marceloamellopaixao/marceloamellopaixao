@@ -21,17 +21,6 @@
 - 🌱 Buscando sempre evoluir em arquitetura de software, performance e boas práticas.
 - 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/marceloamellopaixao)
 
-## 🏆 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/marceloamellopaixao/weven-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=NOME_DO_SEU_REPO_AQUI&theme=tokyonight&hide_border=true" width="400" alt="Projeto Destaque 1"/>
-  </a>
-  <a href="https://github.com/marceloamellopaixao/imobexa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=NOME_DO_OUTRO_REPO_AQUI&theme=tokyonight&hide_border=true" width="400" alt="Projeto Destaque 2"/>
-  </a>
-</div>
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
@@ -47,6 +36,17 @@
   
   <!-- Ferramentas e Infraestrutura -->
   <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/marceloamellopaixao/weven-finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=weven-finance&theme=tokyonight&hide_border=true" width="400" alt="Projeto WevenFinance"/>
+  </a>
+  <a href="https://github.com/marceloamellopaixao/iadeldorado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marceloamellopaixao&repo=iadeldorado&theme=tokyonight&hide_border=true" width="400" alt="Projeto IAD Eldorado"/>
+  </a>
 </div>
 
 <br>
