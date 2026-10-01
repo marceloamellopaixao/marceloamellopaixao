@@ -23,8 +23,8 @@
 
 Sou **Desenvolvedor BackEnd na PowerOfData**, formado em Análise e Desenvolvimento de Sistemas pela **FIAP**, com foco na construção de aplicações web, APIs e soluções escaláveis.
 
-- 💼 Atualmente atuo como **Software Developer na PowerOfData**
-- ⚙️ Trabalho principalmente com **C# / .NET e Python** no back-end
+- 💼 Atualmente atuo como **BackEnd Developer na PowerOfData**
+- ⚙️ Trabalho principalmente com **Python e TypeScript** no back-end
 - 🌐 Desenvolvo aplicações modernas utilizando **Next.js, React e TypeScript**
 - 🧩 Experiência com **APIs REST, integrações, autenticação, bancos de dados e automações**
 - ☁️ Interesse e experiência prática com **Cloud, Docker, CI/CD e arquitetura de software**
