@@ -1,44 +1,31 @@
 name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  schedule: # Executa a cada 12 horas
+    - cron: "* */12 * * *"
+  workflow_dispatch: # Permite rodar manualmente na aba Actions
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout do código
-        uses: actions/checkout@v3
-
-      # Snake Animation
-      - name: Snake Animation
-        id: snake-gif
-        run: |
-          echo "github_user_name=marceloamellopaixao" >> $GITHUB_ENV
-          echo "svg_out_path=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
-          npx snk
-
-      # Setando as variáveis de ambiente para serem usadas em etapas posteriores
-      - name: Set Environment Variables
-        run: echo "MY_OUTPUT_VAR=123" >> $GITHUB_ENV
-
-      # Criar uma nova tag para a versão
-      - name: Criar Tag de Versão
-        run: git tag v1.0
-        if: success()  # Executar apenas se os passos anteriores forem bem-sucedidos
-
-      - name: GitHub Pages
-        uses: crazy-max/ghaction-github-release@v2
+      # Puxa o repositório
+      - uses: actions/checkout@v3
+      
+      # Gera a cobrinha
+      - uses: Platane/snk/svg-only@v3
         with:
-          tag_name: v1.0
-          token: ${{ secrets.GITHUB_TOKEN }}
-          files: dist/*
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Envia para a branch "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          github_user_name: marceloamellopaixao
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          MY_OUTPUT_VAR: ${{ env.MY_OUTPUT_VAR }}
-        if: success()  # Executar apenas se os passos anteriores forem bem-sucedidos
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
